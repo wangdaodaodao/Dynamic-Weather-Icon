@@ -1,0 +1,9 @@
+Package: com.wangdaodao.dytianqi
+Name: 动态天气
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 在天气应用图标上显示实时天气信息的插件（完整功能需要 iOS 16+）
+Maintainer: wangdaodao
+Author: 王导导
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)

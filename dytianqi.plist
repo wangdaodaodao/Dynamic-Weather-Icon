@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Filter</key>
+    <dict>
+        <key>Bundles</key>
+        <array>
+            <string>com.apple.springboard</string>
+        </array>
+    </dict>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>此插件需要访问您的位置以显示准确的天气信息。</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>此插件需要在后台访问您的位置以更新天气信息。</string>
+    <key>NSWeatherKitUsageDescription</key>
+    <string>此插件使用 WeatherKit 获取实时天气数据（仅 iOS 16+）。</string>
+</dict>
+</plist>
